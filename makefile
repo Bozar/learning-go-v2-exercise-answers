@@ -1,4 +1,4 @@
-FILE_SRC := 2_1.go
+FILE_SRC := 2_3.go
 
 FILE_EXEC := prog
 FILE_GIT_KEEP := .gitkeep
