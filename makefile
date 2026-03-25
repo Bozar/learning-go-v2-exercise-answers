@@ -1,4 +1,4 @@
-FILE_SRC := 3_3.go
+FILE_SRC := 4_3.go
 
 FILE_EXEC := prog
 FILE_EXEC_WIN := prog.exe
